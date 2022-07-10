@@ -12,7 +12,7 @@ github_username: bendconnell
 
 # Email and twitter are optional:
 email: ben.d.connell@outlook.com
-twitter_username: BenConnell3
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
